@@ -1,5 +1,5 @@
-# Hello, I'm Shodhan 👋:
-🎓CSE-Data Science Student<br>📚 Constantly learning and improving myself every day<br>🔭 I'm currently working on: Building projects and improving my problem-solving skills<br>🌱 I'm currently learning: Data Science, Machine Learning, SQL, and AI applications<br>
+# Hello, I'm Shodhan 👋
+🎓 CSE-Data Science Student at Dayananda Sagar College of Engineering, BANGALORE<br><br>🌱 Constantly learning and improving myself every day<br><br>🔭 I'm currently working on: Building projects and improving my problem-solving skills<br><br>🧠 My academic journey has helped me build a foundation in Python, SQL, and data-driven thinking while developing analytical and logical problem-solving skills. I enjoy exploring new technologies, improving my technical knowledge, and challenging myself with real-world problems that help me grow as a developer.<br>
 
 
 ## 🌐 Socials:
