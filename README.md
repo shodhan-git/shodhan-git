@@ -2,13 +2,12 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,+I'm+Shodhan+👋&fontSize=35&fontColor=ffffff" />
 </p>
-
 <!-- Typing Text -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Things+One+Step+at+a+Time+🚀;Curious+About+How+Things+Work;Always+Up+for+a+New+Challenge;Progress+Over+Perfection" />
 </p>
 
-🎓 CSE-Data Science Student at Dayananda Sagar College of Engineering, BANGALORE<br><br>🌱 Constantly learning and improving myself every day<br><br>🔭 I'm currently working on: Building projects and improving my problem-solving skills<br><br>🧠 My academic journey has helped me build a foundation in Python, SQL, and data-driven thinking while developing analytical and logical problem-solving skills. I enjoy exploring new technologies, improving my technical knowledge, and challenging myself with real-world problems that help me grow as a developer.<br>
+🎓 CSE-Data Science Student at Dayananda Sagar College of Engineering, BANGALORE<br><br>🌱 Constantly learning and improving myself every day<br><br>🔭 I'm currently working on: Building projects and improving my problem-solving skills<br><br>💡 Passionate about technology, data, and creating solutions that make an impact<br>
 
 
 ## 🌐 Socials:
